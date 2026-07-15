@@ -8,6 +8,10 @@ It focuses on tools you can intentionally use to search, browse, generate, or
 receive music recommendations. It is not a general music-tool directory or a
 guide to every way music can be discovered.
 
+Some categories were shaped by listener feedback from Reddit discussions about
+music discovery habits, including this
+[r/LetsTalkMusic thread on how people discover new music in 2026](https://www.reddit.com/r/LetsTalkMusic/comments/1ukynzt/how_do_you_actually_discover_new_music_in_2026/).
+
 > [!NOTE]
 > This project is an early draft. The taxonomy and entries below are examples
 > meant to start a conversation. Suggestions, corrections, and disagreements
@@ -29,6 +33,8 @@ Before trying a new tool, see what your streaming service already offers.
 - [YouTube Music](https://music.youtube.com/) — Personalized mixes, radio, and recommendations powered by YouTube's catalog. **Best for:** live performances, remixes, covers, and niche uploads. **Limitations:** recommendation quality can be inconsistent.
 
 - [Apple Music](https://music.apple.com/) — Personalized stations combined with editorial playlists. **Best for:** balancing algorithmic and human-curated discovery. **Limitations:** fewer discovery controls than some competitors.
+
+- [SoundCloud](https://soundcloud.com/) — Artist uploads, related tracks, reposts, and user playlists. **Best for:** a companion to mainstream streaming that surfaces emerging artists, remixes, DJ edits, and niche electronic music missing from other catalogs. **Limitations:** metadata and upload quality are inconsistent, and availability depends on what creators post.
 
 ---
 
@@ -102,8 +108,8 @@ Let your own listening become the starting point.
 
 ## Honorable mentions
 
-These approaches can lead to excellent discoveries, but they are not music
-discovery tools in the strict sense, so they are not part of the main
+These approaches and tools can lead to excellent discoveries, but they are not
+music discovery tools in the strict sense, so they are not part of the main
 directory.
 
 - **Ask people** — Friends, forums, and communities such as
@@ -119,6 +125,12 @@ directory.
 - **Identify what catches your ear** — Shazam and similar recognition tools
   help capture music encountered in public, on screen, or at a show. They
   identify a starting point; another discovery tool takes over from there.
+- **VirtualDJ** — Primarily DJ performance software. Its recommendation and
+  catalog features can assist track selection, but discovery is secondary to
+  performance and library management.
+- **Soulseek** — A peer-to-peer file-sharing network sometimes used to find
+  rare recordings. It is not primarily a discovery tool, and downloads may
+  involve unauthorized copyrighted material.
 
 ---
 
