@@ -1,11 +1,12 @@
 # Awesome Music Discovery
 
 Streaming recommendations are great for everyday listening, but they often
-become repetitive. This directory helps you find the right tool or community
-when you want to break out of that loop.
+become repetitive. This community-maintained directory helps you find a music
+discovery tool when you want to break out of that loop.
 
-The goal is to develop it into a community-maintained guide organized around
-the clue you already have.
+It focuses on tools you can intentionally use to search, browse, generate, or
+receive music recommendations. It is not a general music-tool directory or a
+guide to every way music can be discovered.
 
 > [!NOTE]
 > This project is an early draft. The taxonomy and entries below are examples
@@ -43,17 +44,31 @@ Start here when you already know at least one song or artist.
 
 ---
 
-## I want recommendations from people
+## I want human-curated listening
 
-Sometimes context, nuance, or niche knowledge matters more than algorithms.
-Excellent recommendations are possible, but finding them depends on asking
-good questions and waiting for knowledgeable responders.
+Use these when you want programming selected by people rather than generated
+from your listening profile.
 
-- [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) — Recommendations based on something you already like.
+- [NTS Radio](https://www.nts.live/) — Global radio platform with live channels
+  and an archive of artist- and DJ-curated shows. **Best for:** adventurous,
+  genre-spanning listening. **Limitations:** discovering a specific sound can
+  require digging through a large and loosely categorized archive.
 
-- [r/musicsuggestions](https://www.reddit.com/r/musicsuggestions/) — Open-ended recommendation requests.
+- [KEXP](https://www.kexp.org/) — Listener-supported radio station with live
+  programming, specialty shows, playlists, and performances. **Best for:**
+  independent music and DJ-led discovery. **Limitations:** its programming
+  reflects the station's editorial identity rather than your individual taste.
 
-- [r/LetsTalkMusic](https://www.reddit.com/r/LetsTalkMusic/) — Discussion-driven music discovery and education.
+- [BBC Radio 6 Music](https://www.bbc.co.uk/sounds/play/live:bbc_6music) —
+  Artist- and DJ-led radio spanning new releases, alternative music, and
+  catalog selections. **Best for:** a mix of current and established
+  alternative music. **Limitations:** some programs and playback may be
+  restricted by region or availability.
+
+- [Radio Paradise](https://radioparadise.com/) — Human-curated, listener-
+  supported internet radio with several genre-oriented mixes. **Best for:**
+  continuous listening without building a playlist. **Limitations:** limited
+  control over what plays next.
 
 ---
 
@@ -85,23 +100,45 @@ Let your own listening become the starting point.
 
 ---
 
+## Honorable mentions
+
+These approaches can lead to excellent discoveries, but they are not music
+discovery tools in the strict sense, so they are not part of the main
+directory.
+
+- **Ask people** — Friends, forums, and communities such as
+  [r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/),
+  [r/musicsuggestions](https://www.reddit.com/r/musicsuggestions/), and
+  [r/LetsTalkMusic](https://www.reddit.com/r/LetsTalkMusic/) can provide
+  context that automated recommendations miss.
+- **Follow musical connections** — Explore collaborators, producers,
+  engineers, labels, associated acts, samples, and discographies from music
+  you already know.
+- **See music live** — Opening acts, DJs, clubs, festivals, and local venues
+  expose listeners to artists outside their usual recommendation loops.
+- **Identify what catches your ear** — Shazam and similar recognition tools
+  help capture music encountered in public, on screen, or at a show. They
+  identify a starting point; another discovery tool takes over from there.
+
+---
+
 ## What belongs here?
 
-An entry should help someone **discover music to listen to**.
+An entry should be a tool whose primary purpose—or a substantial feature—is
+helping listeners intentionally discover unfamiliar music.
 
 This includes:
 
-- Discovery tools
-- Recommendation engines
-- Music databases
-- Editorial sources
-- Human communities
+- Recommendation and similarity engines
+- Discovery-focused browsing platforms
+- Human-curated listening services
+- Listening-history recommendation tools
 
 This directory is curated, not exhaustive.
 
 General music-production software, DAWs, notation software, audio libraries,
-and unrelated music utilities are outside its scope. For that broader
-ecosystem, see
+generic social platforms, communities, and discovery advice are outside its
+scope. For the broader music-software ecosystem, see
 [Awesome Music](https://github.com/noteflakes/awesome-music).
 
 ---
