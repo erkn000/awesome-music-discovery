@@ -90,6 +90,8 @@ Browse music without starting from a particular song or artist.
 
 - [Hype Machine](https://hypem.com/) — Music featured across independent blogs. **Best for:** discovering blog-covered independent artists. **Limitations:** reflects the editorial tastes of participating blogs rather than the broader music landscape.
 
+- [OnlyAI.FM](https://onlyai.fm/) — AI-music streaming portal with genre browsing, charts, creator pages, and live radio. **Best for:** intentionally exploring music presented as AI-generated. **Limitations:** its specialized catalog is smaller and less stylistically broad than mainstream streaming services.
+
 - [Discogs](https://www.discogs.com/) — Explore labels, credits, and discographies. **Best for:** following musicians, producers, and record labels. **Limitations:** fantastic for researching music you've already found, but poor as a starting point for discovering something new.
 
 - [MusicBrainz](https://musicbrainz.org/) — Open music encyclopedia. **Best for:** exploring relationships between artists, releases, recordings, and labels. **Limitations:** designed for accurate music metadata, not helping listeners decide what to hear next.
