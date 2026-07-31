@@ -38,6 +38,22 @@ Before trying a new tool, see what your streaming service already offers.
 
 ---
 
+## I want more control over Spotify
+
+Use these tools when you want to extend Spotify's own library, playlist, and
+discovery features.
+
+- [Sort-Play](https://github.com/hoeci/sort-play) — A Spicetify extension that
+  adds advanced sorting and filtering, dynamic and discovery playlists, genre
+  and discography exploration, Smart Shuffle, playlist analysis, and additional
+  track metadata inside Spotify. **Best for:** turning Spotify into a more
+  flexible environment for exploring large playlists, artist catalogs, genres,
+  new releases, and unfamiliar music. **Limitations:** requires Spotify Desktop
+  and Spicetify; some optional features rely on Last.fm, Deezer, Gemini, or
+  other external data sources.
+
+---
+
 ## I have a song or artist
 
 Start here when you already know at least one song or artist.
@@ -83,6 +99,8 @@ from your listening profile.
 Browse music without starting from a particular song or artist.
 
 - [Bandcamp Discover](https://bandcamp.com/discover) — Explore independent music by genre, tag, location, and format. **Best for:** discovering independent artists and local scenes. **Limitations:** exceptional for independent music but weak for mainstream catalogs.
+
+- [OnlyAI.fm](https://onlyai.fm/) — AI-generated music discovery platform with genre pages, creator profiles, charts, and continuous radio. **Best for:** exploring AI-generated music and discovering creators through genres and charts. **Limitations:** focused exclusively on AI-generated music rather than the broader music ecosystem.
 
 - [Rate Your Music](https://rateyourmusic.com/charts/) — Community charts, ratings, genres, and lists. **Best for:** finding acclaimed and obscure releases. **Limitations:** steep learning curve, dense interface, and ratings often reflect the tastes of dedicated music enthusiasts rather than casual listeners.
 
